@@ -2,5 +2,6 @@
 # returns the phrase
 def perrot(brd = "Squawk!")
 bird = "Squawk!"
+puts bird 
   return bird
 end
